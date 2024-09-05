@@ -1,4 +1,4 @@
-# Recipes App - Client Side 🌟
+# Recipes App - Client Side 🍽️
 
 Welcome to the client side of the Recipes App! 🍲 This application allows users to search for a variety of delicious recipes and manage their accounts with a secure login system. Built using a modern tech stack, this project leverages Redux, TypeScript, React, Cypress, and Vite to deliver a smooth and interactive user experience.
 
